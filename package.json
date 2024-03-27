@@ -65,7 +65,7 @@
     "concurrently": "^6.1.0",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "express-fileupload": "^1.2.1",
     "express-mongo-sanitize": "^2.1.0",
     "fuzzy": "^0.1.3",
